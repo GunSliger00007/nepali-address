@@ -1,16 +1,22 @@
 # 🇳🇵 nepali-address
 The definitive, type-safe dataset and utility library for Nepal's administrative divisions. Built with TypeScript for modern Node.js environments.
 
-# Installation
+## 🚀 Installation
+
+Install the package using your preferred package manager:
+
 ```bash
-# npm install
+# npm
 npm install nepali-address
 
-# yarn install
+# pnpm
+pnpm add nepali-address
+
+# yarn
 yarn add nepali-address
 
-# bun install
-bun install nepali-address
+# bun
+bun add nepali-address
 ```
 
 # 📖 Usage
