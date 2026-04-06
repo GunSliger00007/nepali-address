@@ -19,17 +19,17 @@ export interface District {
   total_local_levels: number; // Sum of Metro + Sub-Metro + Muni + Rural Muni
 }
 
-export type MunicipalityType =
+export type LocalLevelType =
   | 'metropolitan'
   | 'sub-metropolitan'
   | 'municipality'
   | 'rural-municipality';
 
-export interface Municipality {
+export interface LocalLevel {
   id: number;
   district_id: number;
   name: string;
   name_ne: string;
-  type: MunicipalityType;
+  type: LocalLevelType;
   total_wards: number;
 }
