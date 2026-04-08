@@ -53,7 +53,7 @@ export function getDistrictById(id: number): District | undefined {
 /**
  * Finds a specific district by its name.
  *
- * @param districtName - The name of the district.
+ * @param district - The name of the district.
  * @returns The district object if found, otherwise undefined.
  *
  * @example

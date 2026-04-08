@@ -53,7 +53,7 @@ export function getLocalLevelById(id: number): LocalLevel | undefined {
 /**
  * Finds a specific local level by its unique ID.
  *
- * @param id - The unique ID of the local level.
+ * @param localLevel - The name of the local level.
  * @returns The local level object if found, otherwise undefined.
  *
  * @example
@@ -69,8 +69,10 @@ export function getLocalLevelById(id: number): LocalLevel | undefined {
  *
  * @category LocalLevel
  */
-export function getLocalLevelByName(name: string): LocalLevel | undefined {
-  return localLevelsMapByName.get(normalize(name));
+export function getLocalLevelByName(
+  localLevel: string,
+): LocalLevel | undefined {
+  return localLevelsMapByName.get(normalize(localLevel));
 }
 
 /**
