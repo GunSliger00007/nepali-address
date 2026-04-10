@@ -24,7 +24,7 @@ import { normalize } from '../utils/helpers.js';
  * @category LocalLevel
  */
 export function getLocalLevels(): LocalLevel[] {
-  return LOCAL_LEVELS;
+  return [...LOCAL_LEVELS];
 }
 
 /**
