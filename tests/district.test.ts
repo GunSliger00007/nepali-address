@@ -19,6 +19,12 @@ describe('District API', () => {
     assert.strictEqual(result.length, 77);
   });
 
+  test('should return all 753 local levels in length', () => {
+    const result = getDistricts();
+    const sum = result.reduce((sum, item) => sum + item.total_local_levels, 0);
+    assert.strictEqual(sum, 753);
+  });
+
   test('should return district with correct shape', () => {
     const result = getDistricts();
     result.forEach((district) => {

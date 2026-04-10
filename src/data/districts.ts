@@ -494,7 +494,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Rukumkot',
     headquarter_ne: 'रुकुमकोट',
     postcode: '33500',
-    total_local_levels: 6,
+    total_local_levels: 3,
   },
   {
     id: 502,
@@ -504,7 +504,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Liwang',
     headquarter_ne: 'लिवाङ',
     postcode: '33400',
-    total_local_levels: 6,
+    total_local_levels: 10,
   },
   {
     id: 503,
@@ -524,7 +524,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Tamghas',
     headquarter_ne: 'तम्घास',
     postcode: '33200',
-    total_local_levels: 8,
+    total_local_levels: 12,
   },
   {
     id: 505,
@@ -534,7 +534,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Sandhikharka',
     headquarter_ne: 'सान्दीखर्क',
     postcode: '33100',
-    total_local_levels: 7,
+    total_local_levels: 6,
   },
   {
     id: 506,
@@ -544,7 +544,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Tansen',
     headquarter_ne: 'तानसेन',
     postcode: '33000',
-    total_local_levels: 7,
+    total_local_levels: 10,
   },
   {
     id: 507,
@@ -554,7 +554,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Ramgram',
     headquarter_ne: 'रामग्राम',
     postcode: '32900',
-    total_local_levels: 8,
+    total_local_levels: 7,
   },
   {
     id: 508,
@@ -564,7 +564,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Siddharthanagar',
     headquarter_ne: 'सिद्धार्थनगर',
     postcode: '32800',
-    total_local_levels: 14,
+    total_local_levels: 16,
   },
   {
     id: 509,
@@ -574,7 +574,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Taulihawa',
     headquarter_ne: 'तौलिहवा',
     postcode: '32700',
-    total_local_levels: 8,
+    total_local_levels: 10,
   },
   {
     id: 510,
@@ -584,7 +584,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Ghorahi',
     headquarter_ne: 'घोराही',
     postcode: '32600',
-    total_local_levels: 9,
+    total_local_levels: 10,
   },
   {
     id: 511,
@@ -594,7 +594,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Nepalganj',
     headquarter_ne: 'नेपालगञ्ज',
     postcode: '32500',
-    total_local_levels: 9,
+    total_local_levels: 8,
   },
   {
     id: 512,
@@ -604,7 +604,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Gulariya',
     headquarter_ne: 'गुलरिया',
     postcode: '32400',
-    total_local_levels: 9,
+    total_local_levels: 8,
   },
 
   //===========================================
@@ -619,7 +619,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Dunai',
     headquarter_ne: 'दुनाइ',
     postcode: '21400',
-    total_local_levels: 7,
+    total_local_levels: 8,
   },
   {
     id: 602,
@@ -629,7 +629,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Gamgadhi',
     headquarter_ne: 'गमगढी',
     postcode: '21300',
-    total_local_levels: 5,
+    total_local_levels: 4,
   },
   {
     id: 603,
@@ -639,7 +639,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Simikot',
     headquarter_ne: 'सिमीकोट',
     postcode: '21500',
-    total_local_levels: 6,
+    total_local_levels: 7,
   },
   {
     id: 604,
@@ -659,7 +659,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Manma',
     headquarter_ne: 'मन्मा',
     postcode: '21000',
-    total_local_levels: 7,
+    total_local_levels: 9,
   },
   {
     id: 606,
@@ -669,7 +669,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Narayan',
     headquarter_ne: 'नारायण',
     postcode: '21100',
-    total_local_levels: 10,
+    total_local_levels: 11,
   },
   {
     id: 607,
@@ -679,7 +679,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Khalanga',
     headquarter_ne: 'खलङ्गा',
     postcode: '21500',
-    total_local_levels: 9,
+    total_local_levels: 7,
   },
   {
     id: 608,
@@ -699,7 +699,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Salyan',
     headquarter_ne: 'सल्यान',
     postcode: '21700',
-    total_local_levels: 9,
+    total_local_levels: 10,
   },
   {
     id: 610,
@@ -709,7 +709,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Birendranagar',
     headquarter_ne: 'वीरेन्द्रनगर',
     postcode: '21200',
-    total_local_levels: 10,
+    total_local_levels: 9,
   },
 
   //===========================================
@@ -724,7 +724,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Martadi',
     headquarter_ne: 'मार्तडी',
     postcode: '10600',
-    total_local_levels: 6,
+    total_local_levels: 9,
   },
   {
     id: 702,
@@ -734,7 +734,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Jayaprithvi',
     headquarter_ne: 'जयप्रिथ्वी',
     postcode: '10500',
-    total_local_levels: 9,
+    total_local_levels: 12,
   },
   {
     id: 703,
@@ -744,7 +744,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Darchula',
     headquarter_ne: 'दार्चुला',
     postcode: '10100',
-    total_local_levels: 6,
+    total_local_levels: 9,
   },
   {
     id: 704,
@@ -784,7 +784,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Mangalsen',
     headquarter_ne: 'मंगलसेन',
     postcode: '10700',
-    total_local_levels: 9,
+    total_local_levels: 10,
   },
   {
     id: 708,
@@ -794,7 +794,7 @@ export const DISTRICTS: District[] = [
     headquarter: 'Dhangadhi',
     headquarter_ne: 'डंगाधारी',
     postcode: '10900',
-    total_local_levels: 12,
+    total_local_levels: 13,
   },
   {
     id: 709,
